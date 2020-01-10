@@ -1,0 +1,1 @@
+import { default as rootSaga } from './mySaga'
