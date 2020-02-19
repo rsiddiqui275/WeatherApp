@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rsiddiqui275.io/weatherapp/static/css/main.34de6062.chunk.css",
-    "main.js": "/rsiddiqui275.io/weatherapp/static/js/main.e1127153.chunk.js",
-    "main.js.map": "/rsiddiqui275.io/weatherapp/static/js/main.e1127153.chunk.js.map",
-    "runtime~main.js": "/rsiddiqui275.io/weatherapp/static/js/runtime~main.cfd2bb1c.js",
-    "runtime~main.js.map": "/rsiddiqui275.io/weatherapp/static/js/runtime~main.cfd2bb1c.js.map",
-    "static/js/2.5793854f.chunk.js": "/rsiddiqui275.io/weatherapp/static/js/2.5793854f.chunk.js",
-    "static/js/2.5793854f.chunk.js.map": "/rsiddiqui275.io/weatherapp/static/js/2.5793854f.chunk.js.map",
-    "index.html": "/rsiddiqui275.io/weatherapp/index.html",
-    "precache-manifest.b2dfafa5fce0400a7dfb8f0f780bd0c0.js": "/rsiddiqui275.io/weatherapp/precache-manifest.b2dfafa5fce0400a7dfb8f0f780bd0c0.js",
-    "service-worker.js": "/rsiddiqui275.io/weatherapp/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/rsiddiqui275.io/weatherapp/static/css/main.34de6062.chunk.css.map"
+    "main.css": "/rsiddiqui275/WeatherApp/static/css/main.34de6062.chunk.css",
+    "main.js": "/rsiddiqui275/WeatherApp/static/js/main.fda2bea0.chunk.js",
+    "main.js.map": "/rsiddiqui275/WeatherApp/static/js/main.fda2bea0.chunk.js.map",
+    "runtime~main.js": "/rsiddiqui275/WeatherApp/static/js/runtime~main.c785f95c.js",
+    "runtime~main.js.map": "/rsiddiqui275/WeatherApp/static/js/runtime~main.c785f95c.js.map",
+    "static/js/2.5793854f.chunk.js": "/rsiddiqui275/WeatherApp/static/js/2.5793854f.chunk.js",
+    "static/js/2.5793854f.chunk.js.map": "/rsiddiqui275/WeatherApp/static/js/2.5793854f.chunk.js.map",
+    "index.html": "/rsiddiqui275/WeatherApp/index.html",
+    "precache-manifest.04d97f8666bac27d3b7ac099df216b35.js": "/rsiddiqui275/WeatherApp/precache-manifest.04d97f8666bac27d3b7ac099df216b35.js",
+    "service-worker.js": "/rsiddiqui275/WeatherApp/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/rsiddiqui275/WeatherApp/static/css/main.34de6062.chunk.css.map"
   }
 }
